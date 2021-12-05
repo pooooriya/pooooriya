@@ -40,7 +40,7 @@
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="ReactNative" height="25" src="images/android.svg"></code>
+  <code><img title="ReactNative" height="25" src="images/react-original.svg"></code>
   <code><img title="Git" height="25" src="images/github.svg"></code>
 </p>
 <hr>
@@ -63,7 +63,6 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=pooooriya&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 <hr>
 <h4 align="center">
