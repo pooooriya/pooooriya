@@ -15,12 +15,6 @@
 <p align="center">
   Hi, I'm Pouriya Babaali , I'm Software Enginner In Iran 
   <br>
-  💻 I love Javascript Environment and Frameworks and Libraries 
-  <br>
-  📚 I'm Fluent In Reactjs And Nextjs and Nodejs 
-  <br>
-  💬 Currently I Learning About C# And Asp.core 
-  <br>
   📫 You Can Contact Me At<a href="mailto:pouriya.babaali1998@gmail.com"> Pouriya.babaali1998@gmail.com</a>
 </p>
 
