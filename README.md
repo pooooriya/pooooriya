@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pooooriya.babaali.1998">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Pouriya+Babaali....;Nice+to+meet+you!&center=true&size=30">
@@ -15,7 +13,6 @@
 <p align="center">
   Hi, I'm Pouriya Babaali , I'm Software Enginner In Iran 
   <br>
-  📫 You Can Contact Me At<a href="mailto:pouriya.babaali1998@gmail.com"> Pouriya.babaali1998@gmail.com</a>
 </p>
 
 <hr>
